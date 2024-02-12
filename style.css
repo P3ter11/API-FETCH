@@ -1,10 +1,5 @@
-.album{
-    width: 20%;
-    height: auto;
-}
 
-.album img{
-    width: 200px;
-    height: 200px;
+.card img{
+    aspect-ratio: 1/1;
     object-fit: cover;
 }
